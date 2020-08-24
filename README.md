@@ -4,7 +4,7 @@
 
 | I live in Ireland | I would like to live in London|
 | ----------------- | ------------------------------|
-| ![dublin =250x]   | ![london =250x]               |
+| <img src="https://static.vinepair.com/wp-content/uploads/2018/03/dublin-cover-mobile.jpg" alt="drawing" width="200"/>| <img src="https://lp-cms-production.imgix.net/2019-06/55425108.jpg?auto=format&fit=crop&vib=20&sharp=10&ixlib=react-8.6.4" alt="drawing" width="200"/>|
 
 ---
 
