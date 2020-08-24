@@ -1,7 +1,7 @@
-###### Welcome to my GitHub!
+# Welcome to my GitHub!
 
-# [web](https://killiansmith.codes/)
-# [Twitter](https://twitter.com/KillianBoi)
+###### [web](https://killiansmith.codes/)
+###### [Twitter](https://twitter.com/KillianBoi)
 
 ### Current Project: # Pyron
 
