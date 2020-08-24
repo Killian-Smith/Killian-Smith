@@ -1,8 +1,8 @@
 # 👋 Welcome to my GitHub!
 
 <p align="left">
-" •"
 <a href="https://killiansmith.codes" rel="nofollow">Web</a>
+" • "
 <a href="https://www.twitter.com/killianboi" rel="nofollow">Twitter</a>
 </p>
 
