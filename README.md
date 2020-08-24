@@ -1,18 +1,16 @@
-# Welcome to my GitHub!
+# 👋 Welcome to my GitHub!
+
+<p align="left">
+" •"
+<a href="https://killiansmith.codes" rel="nofollow">Web</a>
+<a href="https://www.twitter.com/killianboi" rel="nofollow">Twitter</a>
+</p>
 
 ---
 
 | I live in Ireland | I would like to live in London|
 | ----------------- | ------------------------------|
 | <img src="https://static.vinepair.com/wp-content/uploads/2018/03/dublin-cover-mobile.jpg" alt="drawing" height="250" width="250"/>| <img src="https://heatlinkuk.com/wp-content/uploads/2019/02/London-HIU-Heatlink-500x500.jpg" alt="drawing" height="250" width="250"/>|
-
----
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://killiansmith.codes/)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/KillianBoi)
-<br/>
 
 ---
 
