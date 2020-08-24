@@ -4,7 +4,7 @@
 
 | I live in Ireland | I would like to live in London|
 | ----------------- | ------------------------------|
-| [dublin]          | [london]                      |
+| ![dublin]         | ![london]                     |
 
 ---
 
