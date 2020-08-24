@@ -1,12 +1,15 @@
 # Welcome to my GitHub!
 
-###### [web](https://killiansmith.codes/)
-###### [Twitter](https://twitter.com/KillianBoi)
+### Connect with me:
 
-### Current Project: # Pyron
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://killiansmith.codes/)
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/KillianBoi]
+<br />
 
-### Currently Learning: # Flutter
+##### Current Project: # Pyron
 
-### Email Me: [im.killian.smith@gmail.com](mailto:im.killian.smith@gmail.com)
+##### Currently Learning: # Flutter
 
-### Pronouns: # he/him/his
+##### Email Me: [im.killian.smith@gmail.com](mailto:im.killian.smith@gmail.com)
+
+##### Pronouns: # he/him/his
